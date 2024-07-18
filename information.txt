@@ -1,0 +1,6 @@
+Pour mettre tes propros logo tu doit alles dans ldscr/et tu mets tes logo
+Pour changé les image du font tu doit alles dans ldscr/maps_view/et tu met ici
+
+---------------------------------------
+
+Pour mettre le loading screen sur les SFTP 
